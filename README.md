@@ -1,1 +1,0 @@
-RealHard_Signal
